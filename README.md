@@ -89,7 +89,7 @@ I'm a Computer Science undergraduate who likes to **build whole systems, not jus
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=franskeiser&theme=tokyonight&no-frame=true&column=7&margin-w=8" alt="Trophies" />
+<img src="https://github-profile-trophy-zeta-one.vercel.app/?username=franskeiser&theme=tokyonight&no-frame=true&column=7&margin-w=8" alt="Trophies" />
 
 </div>
 
