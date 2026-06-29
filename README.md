@@ -6,9 +6,9 @@
 </a>
 
 <p>
-  <a href="https://ai-resume-roaster-rho.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-2F81F7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-  <a href="mailto:franzcalumpit2026@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://portfolio-web-rho-lemon.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-2F81F7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="mailto:franzcalumpit7@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/franz-calumpit-861715228/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=franskeiser&label=Profile%20views&color=2F81F7&style=flat" alt="Profile views" />
@@ -36,7 +36,6 @@ I'm a Computer Science undergraduate who likes to **build whole systems, not jus
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 
 **Frameworks & Libraries**
 
@@ -81,8 +80,8 @@ I'm a Computer Science undergraduate who likes to **build whole systems, not jus
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=franskeiser&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franskeiser&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+<img height="180em" src="https://github-readme-stats-two-omega-21.vercel.app/api?username=franskeiser&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
+<img height="180em" src="https://github-readme-stats-two-omega-21.vercel.app/api/top-langs/?username=franskeiser&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 
 <br/>
 
